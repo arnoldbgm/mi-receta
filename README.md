@@ -1,4 +1,4 @@
-# Comandos basicos de git 
+# Comandos basicos de git MODIFICADOS
 
 0. Usar un git status
 ```
