@@ -1,4 +1,19 @@
-# Titulo 1 => h1
+# Comandos basicos de git 
+
+0. Usar un git status
+```
+git status  
+```
+FLUJO ACP
+1. add  => Confirmar los cambios
+```
+git add  TU_ARCHIVO
+
+git add .     => Agregar todos los archivos
+```
+
+
+## Titulo 1 => h1
 ## Titulo 2 =>  h2
 ### Titulo 3 => h3
 
