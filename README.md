@@ -11,7 +11,18 @@ git add  TU_ARCHIVO
 
 git add .     => Agregar todos los archivos
 ```
+2. commit => Comentar los cambios
 
+```
+git commit -m "Comentario
+```
+
+3. push => Subir los cambios al reposotorio remoto
+
+```
+git push origin  NOMBRE_DE_LA_RAMA
+
+```
 
 ## Titulo 1 => h1
 ## Titulo 2 =>  h2
